@@ -14,3 +14,4 @@
 
 <a href="https://www.twitter.com/emdoescs"><img src="https://img.shields.io/twitter/follow/emdoescs?logo=twitter&style=for-the-badge" alt="emdoescs" /></a>
 
+<a href="https://www.youtube.com/emdoescs"><img src="https://img.shields.io/youtube/follow/emdoescs?logo=youtube&style=for-the-badge" alt="emdoescs" /></a>
