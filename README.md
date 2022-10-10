@@ -3,7 +3,7 @@
 # <p align="center">Hello! I'm Emerson.</p>
 
 ### <p align="center">I'm 19 years old at university working on my Computer Science degree</p>
-### <p align="center">Currently interning as a Mobile Engineer at <a href="https://github.com/fidelity">Fidelity Investments.</a></p> 
+#### <p align="center">Currently interning as a Mobile Engineer @ <a href="https://github.com/fidelity">Fidelity Investments.</a></p> 
 <p align="center"<a href="https://www.twitter.com/emdoescs"><img src="https://img.shields.io/twitter/follow/emdoescs?logo=twitter&style=for-the-badge" alt="emdoescs" /></a></p>
 
 
