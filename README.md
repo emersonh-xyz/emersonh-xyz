@@ -2,7 +2,6 @@
 
 ### <p align="center">2nd Year Computer Science Student. <a></a>Currently interning as a Mobile Engineer at Fidelity Investments</p>
 
-### I use ⬇
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
