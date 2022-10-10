@@ -12,6 +12,5 @@
 </p>
 
 
-Where to find me 
 <a href="https://www.twitter.com/emdoescs"><img src="https://img.shields.io/twitter/follow/emdoescs?logo=twitter&style=for-the-badge" alt="emdoescs" /></a>
 
