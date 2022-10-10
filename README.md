@@ -2,7 +2,7 @@
 
 # <p align="center">Hello! I'm Emerson.</p>
 
-### <p align="center">2nd Year Computer Science Student. <a></a>Currently interning as a Mobile Engineer at Fidelity Investments.</p> 
+#### <p align="center">I'm 19 years old at university working on my Computer Science degree. <a></a>Currently interning as a Mobile Engineer at Fidelity Investments.</p> 
 <p align="center"<a href="https://www.twitter.com/emdoescs"><img src="https://img.shields.io/twitter/follow/emdoescs?logo=twitter&style=for-the-badge" alt="emdoescs" /></a></p>
 
 
