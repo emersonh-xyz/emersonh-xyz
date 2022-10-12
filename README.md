@@ -4,7 +4,7 @@
 
 ### <p align="center">I'm 19 years old working on my bachelor's in computer science.</p>
 #### <p align="center">Currently interning as a Mobile Engineer @ <a href="https://github.com/fidelity">Fidelity Investments.</a></p> 
-<a href="https://www.twitter.com/emdoescs"><p align="center"<img src="https://img.shields.io/twitter/follow/emdoescs?logo=twitter&style=for-the-badge" alt="emdoescs" /></p></a>
+<p align="center"<img src="https://img.shields.io/twitter/follow/emdoescs?logo=twitter&style=for-the-badge" alt="emdoescs" /></p>
 
 
 <p align="center">
